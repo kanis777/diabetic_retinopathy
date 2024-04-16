@@ -13,19 +13,43 @@ This project aims to develop and evaluate deep learning models for binary diagno
 - `notebooks/`: Jupyter notebooks for data preprocessing, model training, and evaluation.
 - `README.md`: Markdown file providing an overview of the project.
 
-#### Requirements:
+## Technologies Used 🛠
 
-- Python 3.x
-- TensorFlow
-- Keras
-- NumPy
-- Pandas
-- Matplotlib
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Usage:
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/diabetic-retinopathy.git
+git clone https://github.com/kanis777/diabetic_retinopathy.git
 cd diabetic-retinopathy
+
+Install dependencies:
+```bash
+Copy code
+pip install -r requirements.txt
+Run the colab notebooks in the notebooks/ directory to preprocess data, train models, and evaluate performance.
+Results:
+The InceptionV3 model outperforms the custom CNN and Inception module-inspired model, achieving the highest accuracy in binary diagnosis of DR.
+
+References:
+## IDRID Disease Grading Dataset 📊
+
+Dataset:The [Indian Diabetic Retinopathy Image Dataset (IDRID)](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
+
+TensorFlow: https://www.tensorflow.org/
+Keras: https://keras.io/
+NumPy: https://numpy.org/
+Pandas: https://pandas.pydata.org/
+Matplotlib: https://matplotlib.org/
+Author:
+Kanishka K, Nilavini B M,Varsha S
+
+License:
+This project is licensed under the MIT License.
