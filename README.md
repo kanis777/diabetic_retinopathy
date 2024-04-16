@@ -29,7 +29,7 @@ This project aims to develop and evaluate deep learning models for binary diagno
 ```bash
 git clone https://github.com/kanis777/diabetic_retinopathy.git
 cd diabetic-retinopathy
-
+```
 Install dependencies:
 ```bash
 Copy code
