@@ -32,7 +32,6 @@ cd diabetic-retinopathy
 ```
 Install dependencies:
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 Run the colab notebooks in the notebooks/ directory to preprocess data, train models, and evaluate performance.
