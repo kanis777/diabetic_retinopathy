@@ -41,15 +41,14 @@ The InceptionV3 model outperforms the custom CNN and Inception module-inspired m
 References:
 ## IDRID Disease Grading Dataset 📊
 
--Dataset:The [Indian Diabetic Retinopathy Image Dataset (IDRID)](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
--TensorFlow: https://www.tensorflow.org/
--Keras: https://keras.io/
--NumPy: https://numpy.org/
--Pandas: https://pandas.pydata.org/
--Matplotlib: https://matplotlib.org/
+IDRID Disease Grading Dataset: [Indian Diabetic Retinopathy Image Dataset (IDRID)](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
+TensorFlow: [https://www.tensorflow.org/](https://www.tensorflow.org/)
+Keras: [https://keras.io/](https://keras.io/)
+NumPy: [https://numpy.org/](https://numpy.org/)
+Pandas: [https://pandas.pydata.org/](https://pandas.pydata.org/)
+Matplotlib: [https://matplotlib.org/](https://matplotlib.org/)
+
 
 ### Author:
 Kanishka K, Nilavini B M,Varsha S
 
-License:
-This project is licensed under the MIT License.
