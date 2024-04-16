@@ -42,7 +42,6 @@ References:
 ## IDRID Disease Grading Dataset 📊
 
 Dataset:The [Indian Diabetic Retinopathy Image Dataset (IDRID)](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
-
 TensorFlow: https://www.tensorflow.org/
 Keras: https://keras.io/
 NumPy: https://numpy.org/
