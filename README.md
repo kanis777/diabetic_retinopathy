@@ -34,6 +34,7 @@ Install dependencies:
 ```bash
 Copy code
 pip install -r requirements.txt
+```
 Run the colab notebooks in the notebooks/ directory to preprocess data, train models, and evaluate performance.
 Results:
 The InceptionV3 model outperforms the custom CNN and Inception module-inspired model, achieving the highest accuracy in binary diagnosis of DR.
